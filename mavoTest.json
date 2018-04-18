@@ -1,4 +1,15 @@
 {
 	"title": "Practicum 2: Mavo toepassing",
-	"event": []
+	"event": [
+		{
+			"title": "Example Event",
+			"description": "Event created for testing the mavo framework.",
+			"start": "2012-03-04",
+			"end": "2012-03-09",
+			"attendant": [
+				{},
+				{}
+			]
+		}
+	]
 }
