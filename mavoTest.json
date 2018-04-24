@@ -4,11 +4,15 @@
 		{
 			"title": "Example Event",
 			"description": "Event created for testing the mavo framework.",
-			"start": "2012-03-04",
-			"end": "2012-03-09",
+			"start": "2018-06-04",
+			"end": "2018-06-09",
 			"attendant": [
-				{},
-				{}
+				{
+					"first_name": "Guy",
+					"last_name": "One",
+					"mail": "one@example.com",
+					"date_of_birth": "2000-01-01-01"
+				}
 			]
 		}
 	]
