@@ -11,7 +11,13 @@
 					"first_name": "Guy",
 					"last_name": "One",
 					"mail": "one@example.com",
-					"date_of_birth": "2000-01-01-01"
+					"date_of_birth": "2000-01-01"
+				},
+				{
+					"first_name": "Guy",
+					"last_name": "Two",
+					"mail": "two@example.com",
+					"date_of_birth": "2000-01-02"
 				}
 			]
 		}
