@@ -20,6 +20,19 @@
 					"date_of_birth": "2000-01-02"
 				}
 			]
+		},
+		{
+			"title": "Beach Party",
+			"description": "Party at the beach!",
+			"start": "2018-05-28",
+			"end": "2018-05-30",
+			"attendant": [
+				{
+					"first_name": "Foo",
+					"last_name": "Bar",
+					"mail": "foobar@foo.bar"
+				}
+			]
 		}
 	]
 }
